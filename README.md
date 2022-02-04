@@ -13,3 +13,7 @@ PLEASE MAKE SURE YOU RUN THE FOLLWING COMMANDES:
       DM ME FOR TOOLS AND UPDATES
 
 https://t.me/waliidsh
+
+
+# how to ge zhe and phpsessid:
+https://youtu.be/PSQEN8GW0pY
