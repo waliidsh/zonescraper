@@ -15,5 +15,5 @@ PLEASE MAKE SURE YOU RUN THE FOLLWING COMMANDES:
 https://t.me/waliidsh
 
 
-# how to ge zhe and phpsessid:
+# how to get zhe and phpsessid:
 https://youtu.be/PSQEN8GW0pY
